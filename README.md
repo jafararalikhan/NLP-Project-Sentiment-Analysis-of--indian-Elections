@@ -61,7 +61,4 @@ fig.show()
 ```
 
 ## Contributing
-Contributions to this project are welcome! Please fork the repository and submit a pull request with your proposed changes.
-
-## License
-This project is open-sourced under the MIT License. See the LICENSE file for more details.
+Contributions to this project are welcome! Please fork the repository and submit a pull request with your proposed changes

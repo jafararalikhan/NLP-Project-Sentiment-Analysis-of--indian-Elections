@@ -23,8 +23,8 @@ Ensure you have Python 3.x installed on your system. Follow these steps to set u
 
 1. **Clone the repository**:
 ```bash
-git clone [Your GitHub Repo Link]
-cd [Your Repository Name]
+git clone https://github.com/jafararalikhan/
+cd NLP-Project-Sentiment-Analysis-of--indian-Elections
 ```
 
 2. **Install the necessary Python libraries**:
